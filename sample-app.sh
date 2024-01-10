@@ -1,6 +1,6 @@
 #!/bin/bash
 set -euo pipefail
-directory='tempdirrrr'
+directory='tempdirrr'
 mkdir $directory
 mkdir $directory/templates
 mkdir $directory/static
